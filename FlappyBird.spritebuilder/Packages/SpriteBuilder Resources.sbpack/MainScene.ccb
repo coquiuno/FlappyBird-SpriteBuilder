@@ -320,7 +320,7 @@
 				<key>displayName</key>
 				<string>bush</string>
 				<key>memberVarAssignmentName</key>
-				<string>bush_1</string>
+				<string>_bush1</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
